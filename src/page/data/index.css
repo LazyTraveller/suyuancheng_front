@@ -1,0 +1,75 @@
+.input{
+    width:250px;
+    display: inline;
+    margin-top:-5px;
+}
+.button{
+    margin-top:-4px;
+}
+td{
+    width:275px;
+}
+.update{
+    width:110px;
+}
+.btn{
+    margin-right: 25px;
+}
+.btn-provider-left{
+    margin-left:-8px
+    
+}
+.btn-provider-right{
+    margin-left:25px
+    
+}
+.table{
+    
+    left:-20px
+}
+.table_suyuancheng th{
+    width:960px;
+    padding-left:-200px;
+}
+.table_suyuancheng tr{
+    display: block;
+    width:75%
+}
+.table_suyuancheng tbody td{
+    width:200px
+}
+.pluList td{
+    padding:0 10px
+}
+.pluList th{
+    padding:0 10px
+}
+.query{
+    margin-right:15px;
+    color: rgba(0,0,0,.85);
+    font-size: 14px;
+}
+.query-btn{
+    margin-right: 25px;
+}
+.action{
+    margin-left:90px;
+}
+.add-btn{
+    margin-top:16px;
+    background-color: #2ebc4f;
+    color:#fff
+}
+.fa{
+    margin-right:5px;
+}
+.add_modal{
+    line-height: 25px;
+    margin-bottom:25px;
+}
+.add_modal_btn{
+    margin-left:50px;
+}
+.ant-card-body{
+    padding:24px 15px
+}

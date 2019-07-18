@@ -1,0 +1,28 @@
+.input{
+    width:250px;
+    display: inline;
+    margin-top:-5px;
+}
+.button{
+    margin-top:-4px;
+}
+td{
+    width:275px;
+}
+.update{
+    width:110px;
+}
+.btn{
+    margin-right: 25px;
+}
+.btn-provider-left{
+    margin-left:-8px
+    
+}
+.btn-provider-right{
+    margin-left:25px
+    
+}
+.action{
+    margin-left:90px;
+}
