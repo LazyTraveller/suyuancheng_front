@@ -74,7 +74,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "axios": "^0.18.0"
+    "axios": "^0.21.1"
   },
   "proxy": "http://47.107.241.68:8802",
   "jest": {
